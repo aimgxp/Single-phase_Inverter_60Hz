@@ -1,6 +1,6 @@
 /*
  * File:   Single-phase_Inverter_60Hz_HSosc.c
- * Author: A. In·cio Morais
+ * Author: A. In√°cio Morais
  * 
  * PIC16F886 - MPLAB X IDE v5.40 - XC8-CC v2.30
  * MCLRE OFF - HS Ceramic Resonator 20 MHz
@@ -11,7 +11,7 @@
  * Shorter Output OFF: 114.708 us
  * Average: 515.682 us
  * 
- * Can you help me with a small donation? PayPal: anderson.morais@protonmail.com 
+ * anderson.morais@protonmail.com - (35) 99161-9878
  *
  * Created on 29/10/2020
  */
