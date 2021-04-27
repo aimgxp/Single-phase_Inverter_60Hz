@@ -12,4 +12,4 @@ How to simulate it using Proteus 8:
 - Click the 'OK' button to close the 'Edit Component' window and click the play button to run the simulation;
 - Menu bar / Debug / 3. Digital Oscilloscope.
 
-Can you help me with a small donation? PayPal: anderson.morais@protonmail.com
+A. Inácio Morais - anderson.morais@protonmail.com - (35) 99161-9878
